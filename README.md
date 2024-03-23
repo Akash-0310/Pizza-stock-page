@@ -1,4 +1,3 @@
-This Page is Created using React.js.<br>
-This is to show my react.js skills.
+This Page does not contain any functionality because it only consist the UI and created for showing my basics of React.js.<br>
 <br>
 https://pizza-page-akasho3.netlify.app/
